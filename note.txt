@@ -20,3 +20,7 @@ git log --patch
 git rm [name] // delete
 git rm --cached [name] // removed 
 git mv README.md README // file rename
+
+git reset --soft
+git reset  // is --mixed
+git reset --hard
