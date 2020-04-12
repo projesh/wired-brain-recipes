@@ -1,0 +1,22 @@
+git status 
+git status --short
+git status -s
+
+git commit -a
+git commit -a -m
+git add .
+git add A 
+
+git diff
+git diff --staged 
+git diff --staged --no-renames
+
+git log
+git log -2
+git log --oneline
+git log --stat
+git log --patch
+
+git rm [name] // delete
+git rm --cached [name] // removed 
+git mv README.md README // file rename
