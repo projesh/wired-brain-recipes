@@ -24,3 +24,8 @@ git mv README.md README // file rename
 git reset --soft
 git reset  // is --mixed
 git reset --hard
+
+git stash
+git stash list
+git stash show
+git stash pop
